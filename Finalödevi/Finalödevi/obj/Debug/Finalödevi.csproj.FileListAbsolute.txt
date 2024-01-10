@@ -1,0 +1,4 @@
+C:\Users\adnan\OneDrive\Masaüstü\Finalödevi\Finalödevi\obj\Debug\Finalödevi.csproj.AssemblyReference.cache
+C:\Users\adnan\OneDrive\Masaüstü\Finalödevi\Finalödevi\obj\Debug\Finalödevi.csproj.CoreCompileInputs.cache
+C:\Users\Zeynep\Downloads\Finalödevi\Finalödevi\Finalödevi\obj\Debug\Finalödevi.csproj.AssemblyReference.cache
+C:\Users\Zeynep\Downloads\Finalödevi\Finalödevi\Finalödevi\obj\Debug\Finalödevi.csproj.CoreCompileInputs.cache
